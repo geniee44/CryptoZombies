@@ -1,3 +1,3 @@
-# CryptoZombies 🧟‍♀️🧟‍♂️
-Ewha chain solidity study\n
+# 🧟‍♀️CryptoZombies🧟‍♂️
+Ewha chain solidity study
 https://cryptozombies.io/ko/course/
